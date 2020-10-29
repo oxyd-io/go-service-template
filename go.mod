@@ -18,16 +18,11 @@ require (
 	github.com/santhosh-tekuri/jsonschema v1.2.4 // indirect
 	github.com/spf13/afero v1.2.1 // indirect
 	github.com/spf13/viper v1.3.1
-	github.com/stretchr/testify v1.3.0 // indirect
 	go.elastic.co/apm/module/apmgrpc v1.2.0
 	go.elastic.co/apm/module/apmhttp v1.2.0
-	go.uber.org/atomic v1.4.0 // indirect
 	go.uber.org/automaxprocs v1.2.0
-	go.uber.org/multierr v1.1.0 // indirect
-	go.uber.org/zap v1.10.0
-	golang.org/x/net v0.0.0-20190313220215-9f648a60d977 // indirect
+	go.uber.org/zap v1.16.0
 	golang.org/x/sync v0.0.0-20190423024810-112230192c58 // indirect
-	golang.org/x/sys v0.0.0-20190312061237-fead79001313 // indirect
 	google.golang.org/genproto v0.0.0-20190201180003-4b09977fb922 // indirect
 	google.golang.org/grpc v1.18.0
 )
