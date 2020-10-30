@@ -3,7 +3,6 @@ module github.com/proxeter/go-service-template
 require (
 	github.com/BurntSushi/toml v0.3.1 // indirect
 	github.com/chapsuk/grace v0.4.0
-	github.com/elastic/go-sysinfo v0.0.0-20190107121835-59ef8c0eae46 // indirect
 	github.com/golang/protobuf v1.3.1
 	github.com/grpc-ecosystem/go-grpc-middleware v1.0.0
 	github.com/grpc-ecosystem/go-grpc-prometheus v1.2.0
@@ -17,7 +16,7 @@ require (
 	github.com/spf13/afero v1.2.1 // indirect
 	github.com/spf13/viper v1.3.1
 	go.elastic.co/apm/module/apmgrpc v1.2.0
-	go.elastic.co/apm/module/apmhttp v1.2.0
+	go.elastic.co/apm/module/apmhttp v1.8.0
 	go.uber.org/automaxprocs v1.2.0
 	go.uber.org/zap v1.16.0
 	golang.org/x/sync v0.0.0-20190423024810-112230192c58 // indirect
