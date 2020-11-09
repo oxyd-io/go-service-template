@@ -3,7 +3,7 @@ module github.com/proxeter/go-service-template
 require (
 	github.com/BurntSushi/toml v0.3.1 // indirect
 	github.com/chapsuk/grace v0.4.0
-	github.com/golang/protobuf v1.3.1
+	github.com/golang/protobuf v1.4.3
 	github.com/grpc-ecosystem/go-grpc-middleware v1.0.0
 	github.com/grpc-ecosystem/go-grpc-prometheus v1.2.0
 	github.com/jnewmano/grpc-json-proxy v0.0.0-20180803153002-844ea2b143ff
