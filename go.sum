@@ -154,6 +154,7 @@ go.elastic.co/apm v1.2.0/go.mod h1:Hoj6aMYlLxpPBcyNMs3xNCi8d/W4VUh+0qVgvWj90tE=
 go.elastic.co/apm v1.9.0/go.mod h1:qoOSi09pnzJDh5fKnfY7bPmQgl8yl2tULdOu03xhui0=
 go.elastic.co/apm/module/apmgrpc v1.2.0 h1:O9XkQRz7Jjx0ZanNg1wNlGbxbr+G6a3u8HRnfQC5Wx8=
 go.elastic.co/apm/module/apmgrpc v1.2.0/go.mod h1:UXvwpNf/dkBckxRSDar7ISxsWz0gNE67sjZd96/2lmw=
+go.elastic.co/apm/module/apmgrpc v1.9.0/go.mod h1:taUolp6JZQO3AFOrNuoiDu6/SnR2U1Ga+wMtIW6ZfRc=
 go.elastic.co/apm/module/apmhttp v1.2.0 h1:XuWUfDPo75OH07LBJ7MtlumLroDCMOsHtDsWsAM9JQQ=
 go.elastic.co/apm/module/apmhttp v1.2.0/go.mod h1:L+Qa14Ry+fz3w86wZKfhSd3UGYhebqaALZffisxl/u4=
 go.elastic.co/apm/module/apmhttp v1.9.0/go.mod h1:evGjj1bVDqi47Lg2+/uKre/PDSBrOso/eTRrgeJqZyE=
