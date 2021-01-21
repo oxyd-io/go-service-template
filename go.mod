@@ -15,8 +15,8 @@ require (
 	github.com/santhosh-tekuri/jsonschema v1.2.4 // indirect
 	github.com/spf13/afero v1.2.1 // indirect
 	github.com/spf13/viper v1.7.1
-	go.elastic.co/apm/module/apmgrpc v1.9.0
-	go.elastic.co/apm/module/apmhttp v1.9.0
+	go.elastic.co/apm/module/apmgrpc v1.10.0
+	go.elastic.co/apm/module/apmhttp v1.10.0
 	go.uber.org/automaxprocs v1.3.0
 	go.uber.org/zap v1.16.0
 	google.golang.org/grpc v1.33.2
