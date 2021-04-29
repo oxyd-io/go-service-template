@@ -1,0 +1,21 @@
+version: 2
+updates:
+- package-ecosystem: gomod
+  directory: "/"
+  schedule:
+    interval: daily
+  open-pull-requests-limit: 10
+  ignore:
+  - dependency-name: google.golang.org/grpc
+    versions:
+    - 1.36.0
+    - 1.36.1
+  - dependency-name: github.com/golang/protobuf
+    versions:
+    - 1.5.1
+  - dependency-name: go.elastic.co/apm/module/apmgrpc
+    versions:
+    - 1.10.0
+  - dependency-name: go.elastic.co/apm/module/apmhttp
+    versions:
+    - 1.10.0
